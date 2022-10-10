@@ -1,10 +1,5 @@
 <?php
-/**
- * Created by PhpStorm.
- * User: sanathls
- * Date: 29/09/19
- * Time: 4:38 PM
- */
+
 
 require_once __DIR__.'/../models/Stocks.php';
 require_once __DIR__.'/../models/Medicine.php';
