@@ -1,5 +1,4 @@
 <?php
-
 session_start();
 if(isset($_SESSION['useremail']))
 {
@@ -13,19 +12,25 @@ if(isset($_SESSION['useremail']))
 
 </head>
 <style>   h1{
+        border: 5px solid black;
         padding: 40px;
         text-align: center;
-        background: #56644C;
-        color: white;
+        background-color: lightblue;
+        color: black;
         font-size: 50px;}
     h2{
-        font-size: 30px;}
+        font-size: 50px;
+        }
+    h3{
+        font-size: 30px;
+    }
+
 </style>
-<body>
+<body background="login.jpg">
 <div align="center">
     <h1>Pharmacy Management System</h1>
-    <h2>Login</h2>
-    <form action="../controllers/LoginController.php" method="post">
+    <h2>Login </h2>
+    <h3><form action="../controllers/LoginController.php" method="post">
         <label>Email : </label>
         <input type="text" name="useremail" placeholder="Enter Email"/>
         <br/><br/>
@@ -34,6 +39,7 @@ if(isset($_SESSION['useremail']))
         <br/><br/>
         <input type="submit" name="submit" value="Submit"/>
     </form>
+    </h3>
 </div>
 </body>
 </html>
