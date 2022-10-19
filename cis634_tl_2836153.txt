@@ -16,3 +16,6 @@ Time Log:
 10/09/22: 10:00am - 11:00am Established the connection between frontend to backend with the help of xampler server 
 10/10/22: 10:00am - 12:00pm We have tested the connections and also write procedures.
 10/12/22: 09:00am - 10:30pm created one more table which is Admin login table and tested with the front end and it is successfully working.
+10/17/22: 04:00pm - 05:00pm designed test cases document and presented to professor and he has approved.
+10/18/22: 10:00am - 11:30pm help the team members for the requirement documents.
+10/19/22: 01:00pm - 2:00pm modified the test cases and uploaded to GitHub.
