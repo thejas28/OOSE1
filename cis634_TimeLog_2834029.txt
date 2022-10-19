@@ -16,3 +16,5 @@ Time Log:
 10/09/22: 10:00am - 11:00am Established the connection between frontend to backend with the help of xampler server 
 10/10/22: 10:00am - 12:00pm We have tested the connections and also write procedures.
 10/11/22: 02:30pm - 03:00pm i have desined UML diagram which is ER-Model and uploaded into github.
+10/17/22: 10:30am - 01:10pm wrote the db requirements and front-end requirements.
+10/19/22: 11:30am - 12:10pm wrote the use cases and give it to developer.
