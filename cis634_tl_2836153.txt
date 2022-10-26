@@ -19,3 +19,4 @@ Time Log:
 10/17/22: 04:00pm - 05:00pm designed test cases document and presented to professor and he has approved.
 10/18/22: 10:00am - 11:30pm help the team members for the requirement documents.
 10/19/22: 01:00pm - 2:00pm modified the test cases and uploaded to GitHub.
+10/26/22: 4:30pm - 5:30pm Updated test cases for Adm in login page and database
