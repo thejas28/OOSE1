@@ -18,3 +18,4 @@ Time Log:
 10/11/22: 02:30pm - 03:00pm i have desined UML diagram which is ER-Model and uploaded into github.
 10/17/22: 10:30am - 01:10pm wrote the db requirements and front-end requirements.
 10/19/22: 11:30am - 12:10pm wrote the use cases and give it to developer.
+10/24/22: 02:30pm - 03:10pm we have submitted srs document for grading to the grail server.
