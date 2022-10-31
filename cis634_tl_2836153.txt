@@ -20,3 +20,12 @@ Time Log:
 10/18/22: 10:00am - 11:30pm help the team members for the requirement documents.
 10/19/22: 01:00pm - 2:00pm modified the test cases and uploaded to GitHub.
 10/26/22: 4:30pm - 5:30pm Updated test cases for Adm in login page and database
+10/27/22: 2:10pm - 3:30pm test design, Scenarios and test cases implemented.
+10/27/22: 1:15pm - 2:30pm created excel sheet and maintained all Test Scenario Description.
+10/28/22: 10:20am - 12:30pm write the test cases for the login page and logout page.
+10/28/22: 2:00pm - 5:30pm write the test cases and tested for the add stock, home page, medicine page, supplier page, customer page and billing page.
+10/28/22: 6:00pm - 6:50pm reviewed by tejus all the test cases and scenarios and test design.
+10/30/22: 10:00am - 11:30am test plan, design, and test cases reviewed by jagan.
+10/31/22: 8:00am - 9:30am created test document and attached excel sheet into final OOSE1_test_doc and send it to ramakoteswara rao for final review.
+10/31/22: 2:00pm - 2:30am all the team members are approved OOSE1 test document and submitted into grail server for the grading.
+10/31/22: 4:10pm - 4:15pm uploaded OOSE1_test_document into GitHub.
