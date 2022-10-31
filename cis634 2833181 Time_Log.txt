@@ -16,3 +16,6 @@ Time log:
 10/09/22: 10:00am - 11:00am Established the connection between frontend to backend with the help of xampler server 
 10/10/22: 10:00am - 12:00pm We have tested the connections and also write procedures.    
 10/12/22: 10:00am - 11:00pm I grab the data from co team members and created the SRS document which is data modeling and description.
+10/28/22: 3:00pm - 5:00pm I helped rajashekhar galli in writing the test cases and tested for the add stock , home page, supplier page,customer page, and billing page.
+10/30/22: 10:00am - 11:30am I had reviewed as a team member for the test cases and give the test feedback to rajashekahar galli
+10/31/22: 2:00pm - 2:30pm I had reviewd and suggested the changes in the final document and sent that to rajashekhar galli.
