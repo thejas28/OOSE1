@@ -20,5 +20,6 @@ Time Log:
 10/19/22: 11:30am - 12:10pm wrote the use cases and give it to developer.
 10/24/22: 02:30pm - 03:10pm we have submitted srs document for grading to the grail server.
 10/26/22: 8:00pm  - 10:00pm I had participate to make the test plan and scnerios and test cases as well.
+10/28/22: 3:00pm - 5:00pm I helped rajashekhar galli in writing the test cases and tested for the add stock , home page, supplier page,customer page, and billing page.
 10/30/22: 10:00am - 11:30am I had reviewed as a team member for the test cases and give the test feedback to rajashekahar galli
                   
