@@ -22,4 +22,4 @@ Time Log:
 10/26/22: 8:00pm  - 10:00pm I had participate to make the test plan and scnerios and test cases as well.
 10/28/22: 3:00pm - 5:00pm I helped rajashekhar galli in writing the test cases and tested for the add stock , home page, supplier page,customer page, and billing page.
 10/30/22: 10:00am - 11:30am I had reviewed as a team member for the test cases and give the test feedback to rajashekahar galli
-                  
+10/31/22: 2:00pm - 2:30pm I had reviewd and suggested the changes in the final document and sent that to rajashekhar galli.
