@@ -16,3 +16,4 @@ Time Log:
 10/09/22: 10:00am - 11:00am Established the connection between frontend to backend with the help of xampler server 
 10/10/22: 10:00am - 12:00pm We have tested the connections and also write procedures.
 10/12/22: 12:00pm - 2:00pm I did the design for the login page.
+10/28/22: 6:00pm - 6:50pm Reviewed all the test cases and scenarios and test design.
